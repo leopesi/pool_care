@@ -1,2 +1,2 @@
 # pool_care
-Calculadora para tratamento de água de piscina
+API REST de uma Calculadora para tratamento de água de piscina
